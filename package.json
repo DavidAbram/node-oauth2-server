@@ -34,7 +34,7 @@
       "name": "Max Truxa"
     }
   ],
-  "main": "index.js",
+  "main": "dist/index.js",
   "dependencies": {
     "basic-auth": "^2.0.1",
     "fs-extra": "^7.0.1",
